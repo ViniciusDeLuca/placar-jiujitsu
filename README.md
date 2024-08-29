@@ -18,12 +18,3 @@ WebBrowser(Navegador de Internet),recomendados:
 
 * Google Chrome - (https://www.google.com/chrome)
 * Mozilla Firefoz - (https://www.mozilla.org/pt-BR/firefox/new)
-
-## Authors
-
-* **Geraldo Júnior** - (https://github.com/geraldoantonio)
-
-## Contribua com o projeto
-
-- CHAVE PIX - d780fcfa-6f5d-49c4-9a8c-9422763bf75d
-- Banco Brasil - Favorecido Geraldo A S Junior
