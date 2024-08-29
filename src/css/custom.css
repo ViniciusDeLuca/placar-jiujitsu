@@ -10,6 +10,7 @@
   display: flex;
   align-items: center;
   border-bottom: 1px solid rgba(0, 0, 0, 0.171);
+  position: relative;
 }
 
 body {
@@ -94,6 +95,10 @@ sidebar {
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 0.3rem;
+  position: absolute; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  width: 100%;
 }
 
 .atleta-name2 {
@@ -106,8 +111,9 @@ sidebar {
   margin-bottom: 0.3rem;
 }
 .img-logo{
-  width: 30%;
-  height: 30%;
+  width: 10%;
+  flex-shrink: 0;
+  margin-right: 20px;
 }
 .points-content {
   display: flex;
